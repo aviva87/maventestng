@@ -22,13 +22,11 @@ public class NewTest1 <T extends Object>{
 
     @Test(dataProvider = "GetTestData",dataProviderClass = LoginDataProvider.class)
     public void Sheet1(Object ...params ) {
-        Map map = new HashMap();
+         Map map = new HashMap();
          map.put("page",params[0]);
          map.put("limit",params[1]);
          map.put("orderNo",params[2]);
         String result = HttpUtils.doPost(url,map);
         System.out.println(result);
-
-        System.out.println("qwertyui");
     }
 }
