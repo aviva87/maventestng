@@ -29,5 +29,6 @@ public class NewTest1 <T extends Object>{
         String result = HttpUtils.doPost(url,map);
         System.out.println(result);
 
+        System.out.println("qwertyui");
     }
 }
