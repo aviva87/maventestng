@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="Tests" parallel="false" verbose="3">
+
+    <test name="test">
+        <classes>
+            <class name="com.test.dataprovider.NewTest1">
+                <methods>
+                    <include name="Sheet1"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+   <!-- <listeners>
+        <listener class-name="com.vimalselvam.testng.listener.ExtentTestNgFormatter"/>
+        <listener class-name="listener.extentReports.ExtentTestNGIReporterListener"/>
+    </listeners>-->
+</suite>
