@@ -3,15 +3,18 @@
 
     <test name="test">
         <classes>
-            <class name="com.test.dataprovider.NewTest1">
+            <class name="testCase.ReadFile">
                 <methods>
-                    <include name="Sheet1"/>
+                    <include name="readJsonFile"/>
+                    <include name="readJsonFile1"/>
                 </methods>
             </class>
         </classes>
     </test>
-   <!-- <listeners>
-        <listener class-name="com.vimalselvam.testng.listener.ExtentTestNgFormatter"/>
+
+
+   <listeners>
         <listener class-name="listener.extentReports.ExtentTestNGIReporterListener"/>
-    </listeners>-->
+        <listener class-name="listener.extentReports.ExtentTestNGIReporterListener"/>
+    </listeners>
 </suite>
