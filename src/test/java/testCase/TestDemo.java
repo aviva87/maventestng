@@ -3,11 +3,13 @@ package testCase;
 import org.testng.Assert;
 import org.testng.annotations.*;
 
+
 //@Listeners(TestListenerAdapterImp.class)
 public class TestDemo {
     @Test
     public void testcase1(){
-        Assert.assertTrue(1 == 1);
+
+        Assert.assertTrue(1 == 1, "===================assert test===========");
         System.out.println("testcase1");
     }
 
@@ -19,41 +21,41 @@ public class TestDemo {
 
     @BeforeMethod
     public void beforeMethod() {
-        System.out.println("This is beforeMethod");
+        System.out.println("+++++maventestng TestDemo testCase2 start+++++");
     }
 
     @AfterMethod
     public void afterMethod() {
-        System.out.println("This is afterMethod");
+        System.out.println("-----maventestng TestDemo testCase2 end-----");
     }
 
     @BeforeClass
     public void beforeClass() {
-        System.out.println("This is beforeClass");
+        System.out.println("$$$$$maventestng TestDemo start$$$$$");
     }
 
     @AfterClass
     public void afterClass() {
-        System.out.println("This is afterClass");
+        System.out.println("$$$$$maventestng TestDemo end$$$$$");
     }
 
     @BeforeTest
     public void beforeTest() {
-        System.out.println("This is beforeTest");
+        System.out.println("*****maventestng test start*****");
     }
 
     @AfterTest
     public void afterTest() {
-        System.out.println("This is afterTest");
+        System.out.println("*****maventestng test end*****");
     }
 
     @BeforeSuite
     public void beforeSuite() {
-        System.out.println("This is beforeSuite");
+        System.out.println("=====maventestng suite start=====");
     }
 
     @AfterSuite
     public void afterSuite() {
-        System.out.println("This is afterSuite");
+        System.out.println("=====maventestng suite end=====");
     }
 }
