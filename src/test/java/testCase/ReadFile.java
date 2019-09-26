@@ -36,7 +36,7 @@ public class ReadFile {
     @Test(dependsOnMethods = "readJsonFile",priority = 0)
     public void controlDeviceByOperCode() {
         if(json.isEmpty()){
-
+            Assert.fail("参数为空");
         }
         String url = "http://homeapi.q.zihome.com/v2/device/controlDeviceByOperCode";
         String result = HttpUtil.postWithJson(url, json);
@@ -68,6 +68,7 @@ public class ReadFile {
     @Test(priority = 3)
     public void getDeviceState() {
         if(json.isEmpty()){
+            Assert.fail("参数为空");
         }
         String url = "http://qlink.zihome.com/link-snapshot/v1/state/getDeviceState";
         Map map = new HashMap();
@@ -91,6 +92,7 @@ public class ReadFile {
     @Test(priority = 5)
     public void control() {
         if(json.isEmpty()){
+            Assert.fail("参数为空");
         }
         String url = "http://qlink.zihome.com/link-handle-gateway/v1/operate/device/control";
       /* json.remove("command1");
@@ -104,6 +106,7 @@ public class ReadFile {
     @Test(dependsOnMethods = "readJsonFile",priority = 6)
     public void result() {
         if(json.isEmpty()){
+            Assert.fail("参数为空");
         }
         String url = "http://10.216.4.155:8081/v1/gateway/device/control/result";
       /*  json.remove("command");

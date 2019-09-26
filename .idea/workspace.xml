@@ -8,73 +8,12 @@
   <component name="ChangeListManager">
     <list default="true" id="f65bad1a-93e1-4dda-91d6-252509414d1d" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/testCase.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/bullet_point.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/collapseall.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/failed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/passed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/skipped.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/maventestng_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/WorkerTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/test.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/test1.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/Tests/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/Tests/test.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/jquery-1.7.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testCase.ReadFile.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/old/Tests/classes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/old/Tests/groups.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/old/Tests/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/old/Tests/main.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/old/Tests/methods-alphabetical.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/old/Tests/methods-not-run.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/old/Tests/methods.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/old/Tests/reporter-output.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/old/Tests/test.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/old/Tests/testng.xml.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/old/Tests/toc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/old/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/testng-reports.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/testng-reports.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/testng.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wxl/productData/getScreenAlarmData.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wxl/productData/mapData.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wxl/productData/offlineData.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wxl/productData/onlineRate.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wxl/productData/ratio.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wxl/productData/screenData.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wxl/productData/yesterdayOnlineList.sh" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/test/dataprovider/DataProviderClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/test/dataprovider/ExcelUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/test/dataprovider/JsonUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/test/dataprovider/LoginDataProvider.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/test/dataprovider/ParamsBean.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/test/dataprovider/ReadExcelUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/listener/extentReports/ExtentManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/listener/extentReports/ExtentTestNGIReporterListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/listener/extentReports/ExtentTestNGITestListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/listener/extentReports/MySystemInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/testCase/TestDemo.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/interface.txt" afterPath="$PROJECT_DIR$/src/main/java/interface.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/sql.txt" afterPath="$PROJECT_DIR$/src/main/java/sql.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/test.json" afterPath="$PROJECT_DIR$/src/main/resources/test.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/test/dataprovider/ReadExcelUtil.java" afterPath="$PROJECT_DIR$/src/test/java/com/test/dataprovider/ReadExcelUtil.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/testCase/ReadFile.java" afterPath="$PROJECT_DIR$/src/test/java/testCase/ReadFile.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/utils/HttpUtil.java" afterPath="$PROJECT_DIR$/src/test/java/utils/HttpUtil.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/Extent.html" afterPath="$PROJECT_DIR$/test-output/Extent.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testNG.xml" afterPath="$PROJECT_DIR$/testNG.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -98,8 +37,8 @@
       <file leaf-file-name="ReadFile.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/testCase/ReadFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="129" column="26" lean-forward="false" selection-start-line="129" selection-start-column="26" selection-end-line="129" selection-end-column="26" />
+            <state relative-caret-position="185">
+              <caret line="108" column="32" lean-forward="false" selection-start-line="108" selection-start-column="32" selection-end-line="108" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -752,7 +691,7 @@
       <workItem from="1569292573226" duration="2442000" />
       <workItem from="1569312648101" duration="4804000" />
       <workItem from="1569375485307" duration="16121000" />
-      <workItem from="1569466832638" duration="3404000" />
+      <workItem from="1569466832638" duration="3509000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1564466657696</created>
@@ -824,7 +763,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569221234970</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="test">
+      <created>1569470904433</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1569470904433</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -860,10 +806,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="323701000" />
+    <option name="totallyTimeSpent" value="323806000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1551" height="839" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -878,7 +825,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33180428" sideWeight="0.49375" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20931803" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20931803" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -959,7 +906,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/testCase/ReadFile.java</url>
-          <line>127</line>
+          <line>130</line>
           <properties />
           <option name="timeStamp" value="48" />
         </line-breakpoint>
@@ -1147,6 +1094,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1185,6 +1133,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1192,6 +1141,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1244,8 +1196,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testCase/ReadFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="129" column="26" lean-forward="false" selection-start-line="129" selection-start-column="26" selection-end-line="129" selection-end-column="26" />
+        <state relative-caret-position="185">
+          <caret line="108" column="32" lean-forward="false" selection-start-line="108" selection-start-column="32" selection-end-line="108" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
