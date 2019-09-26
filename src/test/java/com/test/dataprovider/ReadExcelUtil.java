@@ -3,6 +3,7 @@ package com.test.dataprovider;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import testCase.ReadFile;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -127,7 +128,7 @@ public class ReadExcelUtil {
 
     public static void main(String[] args) throws Exception {
 //        Object[][] objects = ExcelUtils.getData("C:\\Users\\chun\\Desktop\\测试用例.xls", "Sheet1");
-        Map<String, String> map =  ReadExcelUtil.getExcuteList("C:\\Users\\chun\\Desktop\\测试用例.xls");
+        Map<String, String> map =  ReadExcelUtil.getExcuteList(ReadFile.class.getClassLoader().getResource("testCase.xls").getPath());
         System.out.println(JsonUtils.toJSONString(map));
 
 

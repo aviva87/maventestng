@@ -4,10 +4,17 @@
     <test name="test">
         <classes>
             <class name="testCase.ReadFile">
-                <methods>
+               <!-- <methods>
                     <include name="readJsonFile"/>
-                    <include name="readJsonFile1"/>
-                </methods>
+                    <include name="controlDeviceByOperCode"/>
+                    <include name="checkSnoRepeat"/>
+                    <include name="queryMacByDevUuid"/>
+                    <include name="getDeviceState"/>
+                    <include name="query"/>
+                    <include name="control"/>
+                    <include name="result"/>
+                    <include name="deviceNotify"/>
+                </methods>-->
             </class>
         </classes>
     </test>

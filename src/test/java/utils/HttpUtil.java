@@ -93,6 +93,15 @@ public class HttpUtil {
                 ObjectMapper objectMapper = new ObjectMapper();
 
                 HttpPost httpPost = new HttpPost(url);
+                if(data.containsKey("AccessToken")){
+                    httpPost.setHeader("AccessToken",data.get("AccessToken").toString());
+                   data.remove("AccessToken");
+                }
+                if(data.containsKey("GATEWAY-TOKEN")){
+                    httpPost.setHeader("GATEWAY-TOKEN",data.get("GATEWAY-TOKEN").toString());
+                    data.remove("GATEWAY-TOKEN");
+                }
+                //httpPost.setHeader("Accesstoken",data.get("Accesstoken").toString());
                 httpPost.setHeader(HTTP.CONTENT_TYPE, "application/json");
                 httpPost.setEntity(new StringEntity(objectMapper.writeValueAsString(data),
                         ContentType.create("text/json", "UTF-8")));

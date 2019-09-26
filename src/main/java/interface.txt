@@ -1,186 +1,75 @@
 {
     "code": "20000",
     "message": "success",
-    "timeStamp": 1569209782134,
+    "timeStamp": 1569228205464,
     "data": [
         {
-            "orgCode": "100626",
-            "orgName": "宝安战区",
-            "managerPostCode": "10001781",
+            "orgCode": "100545",
+            "orgName": "七宝业务组",
+            "managerPostCode": "10001464",
             "managerInfo": {
-                "empCode": "20133114",
-                "empName": "黄伟伟",
-                "email": "huangww7@ziroom.com",
-                "adCode": "huangww7",
-                "phone": "15994830501",
-             }
-        },
-        {
-            "orgCode": "100628",
-            "orgName": "福北战区",
-            "managerPostCode": "10001783",
-            "managerInfo": {
-                "empCode": "20194828",
-                "empName": "李飞",
-                "email": "lif180@ziroom.com",
-                "adCode": "lif180",
-                "phone": "18566724644",
-               }
-        },
-        {
-            "orgCode": "100629",
-            "orgName": "罗湖战区",
-            "managerPostCode": "10001784",
-            "managerInfo": {
-                "empCode": "20095694",
-                "empName": "李学岗",
-                "email": "lixg32@ziroom.com",
-                "adCode": "lixg32",
-                "phone": "18675645961",
-               }
-        },
-        {
-            "orgCode": "100625",
-            "orgName": "蛇口战区",
-            "managerPostCode": "10001780",
-            "managerInfo": {
-                "empCode": "20080434",
-                "empName": "吴兵",
-                "email": "wub32@ziroom.com",
-                "adCode": "wub32",
-                "phone": "18511892503",
+                "empCode": "20163453",
+                "empName": "胡正祥",
+                "email": "huzx5@ziroom.com",
+                "adCode": "huzx5",
+                "phone": "18721696569"
             }
         },
         {
-            "orgCode": "100624",
-            "orgName": "南山战区",
-            "managerPostCode": "10001779",
+            "orgCode": "100540",
+            "orgName": "金汇业务组",
+            "managerPostCode": "10001461",
             "managerInfo": {
-                "empCode": "20062850",
-                "empName": "丁文",
-                "email": "dingw4@ziroom.com",
-                "adCode": "dingw4",
-                "phone": "18310745926",
+                "empCode": "20058668",
+                "empName": "董珊珊",
+                "email": "dongss12@ziroom.com",
+                "adCode": "dongss12",
+                "phone": "17721477796"
             }
         },
         {
-            "orgCode": "101323",
-            "orgName": "龙岗战区",
-            "managerPostCode": "10005084",
+            "orgCode": "101813",
+            "orgName": "龙茗业务组",
+            "managerPostCode": "10005950",
             "managerInfo": {
-                "empCode": "20143726",
-                "empName": "吴婵冰",
-                "email": "wucb4@ziroom.com",
-                "adCode": "wucb4",
-                "phone": "13699771512"
+                "empCode": "20338924",
+                "empName": "王婷",
+                "email": "wangt390@ziroom.com",
+                "adCode": "wangt390",
+                "phone": "15921966494"
             }
         },
         {
-            "orgCode": "101442",
-            "orgName": "福田战区",
-            "managerPostCode": "10005231",
+            "orgCode": "102169",
+            "orgName": "万科业务组",
+            "managerPostCode": "10006742",
             "managerInfo": {
-                "empCode": "20115177",
-                "empName": "张力元",
-                "email": "zhangly61@ziroom.com",
-                "adCode": "zhangly61",
-                "phone": "17710766001",
+                "empCode": "20184185",
+                "empName": "汪成成",
+                "email": "wangcc47@ziroom.com",
+                "adCode": "wangcc47",
+                "phone": "18717729002"
             }
         },
         {
-            "orgCode": "102342",
-            "orgName": "布吉战区",
-            "managerPostCode": "10007464",
+            "orgCode": "102575",
+            "orgName": "航华业务组",
+            "managerPostCode": "10008199",
             "managerInfo": {
-                "empCode": "20115708",
-                "empName": "冯明远",
-                "email": "fengmy4@ziroom.com",
-                "adCode": "fengmy4",
-                "phone": "13631595210",
-            }
-        },
-        {
-            "orgCode": "102811",
-            "orgName": "龙坂直收",
-            "managerPostCode": "10008914",
-            "managerInfo": {
-                "empCode": "20052147",
-                "empName": "韩婷婷",
-                "email": "hantt3@ziroom.com",
-                "adCode": "hantt3",
-                "phone": "13301153027",
-            }
-        },
-        {
-            "orgCode": "102812",
-            "orgName": "龙岗直收",
-            "managerPostCode": "10008915",
-            "managerInfo": {
-                "empCode": "20128201",
-                "empName": "吴腾飞",
-                "email": "wutf3@ziroom.com",
-                "adCode": "wutf3",
-                "phone": "18926450869"
-            }
-        },
-        {
-            "orgCode": "102813",
-            "orgName": "南山直收",
-            "managerPostCode": "10008916",
-            "managerInfo": {
-                "empCode": "20058803",
-                "empName": "郭莎",
-                "email": "guos13@ziroom.com",
-                "adCode": "guos13",
-                "phone": "15210752320"
-            }
-        },
-        {
-            "orgCode": "102816",
-            "orgName": "坂田战区",
-            "managerPostCode": "10008920",
-            "managerInfo": {
-                "empCode": "20071353",
-                "empName": "薛芳",
-                "email": "xuef6@ziroom.com",
-                "adCode": "xuef6",
-                "phone": "13810196522"
-            }
-        },
-        {
-            "orgCode": "102826",
-            "orgName": "宝安直收",
-            "managerPostCode": "10008917",
-            "managerInfo": {
-                "empCode": "20197752",
-                "empName": "易俊",
-                "email": "yij7@ziroom.com",
-                "adCode": "yij7",
-                "phone": "15118060177"
-            }
-        },
-        {
-            "orgCode": "102986",
-            "orgName": "福田直收",
-            "managerPostCode": "10009720",
-            "managerInfo": {
-                "empCode": "20025986",
-                "empName": "王贝贝",
-                "email": "wangbb7@ziroom.com",
-                "adCode": "wangbb7",
-                "phone": "15011182695"
-            }
-        },
-        {
-            "orgCode": "102987",
-            "orgName": "前海直收",
-            "managerPostCode": "10009721",
-            "managerInfo": {
-                "empCode": "20197742",
-                "empName": "叶斌",
-                "email": "yeb6@ziroom.com",
-                "adCode": "yeb6",
-                "phone": "18681498858"
+                "empCode": "20117647",
+                "empName": "陈敏",
+                "email": "chenm47@ziroom.com",
+                "adCode": "chenm47",
+                "phone": "15800983564",
+                "jobList": [
+                    {
+                        "orgCode": "102575",
+                        "jobIndicator": "P",
+                        "postCode": "10008199",
+                        "jobCode": "100200",
+                        "contrastJobCode": "100110"
+                    }
+                ]
             }
         }
     ],
