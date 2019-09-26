@@ -106,7 +106,7 @@ public class ReadFile {
     @Test(dependsOnMethods = "readJsonFile",priority = 6)
     public void result() {
         if(json.isEmpty()){
-            Assert.fail("参数为空");
+            Assert.fail("参数为空,readFile失败");
         }
         String url = "http://10.216.4.155:8081/v1/gateway/device/control/result";
       /*  json.remove("command");
